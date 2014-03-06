@@ -10,7 +10,6 @@ public class Test {
       System.out.println("gittest");
       System.out.println("d");
       System.out.println("third");
-
 	}
 
 }
