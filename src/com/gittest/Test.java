@@ -10,6 +10,9 @@ public class Test {
       System.out.println("gittest");
       System.out.println("d");
       System.out.println("third");
+      System.out.println("4 commit");
+      System.out.println(" 5commit");
+
 	}
 
 }
